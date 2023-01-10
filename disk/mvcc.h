@@ -1,0 +1,1 @@
+enum class IsolationLevel { ReadCommitted, RepeatableRead };
